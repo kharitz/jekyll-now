@@ -3,6 +3,4 @@ layout: page
 title: About
 ---
 
-I am PhD in machine learning. This is the place for my reading.
-
-Thanks for reading.
+I am PhD student at ETS Montreal. This is my notes for the reading I do.
