@@ -4,12 +4,12 @@
 permalink:           pretty
 
 # Setup
-title:               Deep Paper Pool
-tagline:             'really deep.'
-description:         'Keep reading.'
-url:                 https://ht93.github.io/
+title:               Recent advancements in medical image analysis
+tagline:             'My notes'
+description:         'Understanding the machine learning advancements for medical data.'
+url:                 #https://ht93.github.io/
 baseurl:             /
-plugins:             [jekyll-paginate]
+plugins:             #[jekyll-paginate]
 paginate:            5
 paginate_path:       "page:num"
 markdown:            kramdown
@@ -17,9 +17,9 @@ markdown:            kramdown
 
 # About/contact
 author:
-  name:              ht93
-  url:               https://ht93.github.io
-  email:             hetong1115@gmail.com
+  name:              kharitz
+  url:               #https://ht93.github.io
+  email:             #hetong1115@gmail.com
 
 # Custom vars
 version:             1.0.0
